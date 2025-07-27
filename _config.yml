@@ -52,8 +52,8 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
   #twitter: frommidworld
-  youtube:
-  bilibili: https://b23.tv/9f2WpUZ
+  youtube:9f2WpUZ
+  
 
 # Text under the icons in footer
 footer-text: Copyright (c) 2025 cosprwi
